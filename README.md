@@ -51,5 +51,25 @@ CREATE TABLE customers (
  String username = "your_mysql_username";
  String password = "your_mysql_password";
 
+# Screenshots
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/login%20.png)
+
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/Signup1.png)
+
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/Signup2.png)
+
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/Signup3.png)
+
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/ATM.png)
+
+![Alt Text](https://github.com/divyanshiverma25/Bank-Management-System/blob/2c7777e02025ed0e2383d45b831a56a5408314ed/Deposit.png)
+
+
+
+
+
+
+
+
 
 
